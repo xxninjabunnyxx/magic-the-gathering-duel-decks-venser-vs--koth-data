@@ -1,0 +1,117 @@
+---
+object: card
+id: f387d963-7404-478d-a7fa-4ad45f1ad286
+oracle_id: b917e472-2550-4381-b756-45487c2c187a
+multiverse_ids:
+- 270861
+mtgo_id: 43714
+mtgo_foil_id: 43715
+tcgplayer_id: 58105
+cardmarket_id: 253563
+name: Sawtooth Loon
+lang: en
+released_at: '2012-03-30'
+uri: https://api.scryfall.com/cards/f387d963-7404-478d-a7fa-4ad45f1ad286
+scryfall_uri: https://scryfall.com/card/ddi/17/sawtooth-loon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/3/f387d963-7404-478d-a7fa-4ad45f1ad286.jpg?1581708323
+  normal: https://cards.scryfall.io/normal/front/f/3/f387d963-7404-478d-a7fa-4ad45f1ad286.jpg?1581708323
+  large: https://cards.scryfall.io/large/front/f/3/f387d963-7404-478d-a7fa-4ad45f1ad286.jpg?1581708323
+  png: https://cards.scryfall.io/png/front/f/3/f387d963-7404-478d-a7fa-4ad45f1ad286.png?1581708323
+  art_crop: https://cards.scryfall.io/art_crop/front/f/3/f387d963-7404-478d-a7fa-4ad45f1ad286.jpg?1581708323
+  border_crop: https://cards.scryfall.io/border_crop/front/f/3/f387d963-7404-478d-a7fa-4ad45f1ad286.jpg?1581708323
+mana_cost: "{2}{W}{U}"
+cmc: 4.0
+type_line: Creature — Bird
+oracle_text: |-
+  Flying
+  When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.
+  When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+power: '2'
+toughness: '2'
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a29e8ace-bbcd-4507-b159-7ec77d28f792
+set: ddi
+set_name: 'Duel Decks: Venser vs. Koth'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/a29e8ace-bbcd-4507-b159-7ec77d28f792
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f387d963-7404-478d-a7fa-4ad45f1ad286/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab917e472-2550-4381-b756-45487c2c187a&unique=prints
+collector_number: '17'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: ea92df6e-9136-4eec-9ea0-4959e65675fb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 17380
+penny_rank: 8860
+prices:
+  usd: '0.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270861
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sawtooth+Loon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sawtooth+Loon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sawtooth+Loon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58105?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sawtooth+Loon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/43714?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,18 @@
+---
+object: set
+id: a29e8ace-bbcd-4507-b159-7ec77d28f792
+code: ddi
+mtgo_code: ddi
+arena_code: ddi
+tcgplayer_id: 367
+name: 'Duel Decks: Venser vs. Koth'
+uri: https://api.scryfall.com/sets/a29e8ace-bbcd-4507-b159-7ec77d28f792
+scryfall_uri: https://scryfall.com/sets/ddi
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addi&unique=prints
+released_at: '2012-03-30'
+set_type: duel_deck
+card_count: 77
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddi.svg?1694404800
